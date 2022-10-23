@@ -1,4 +1,4 @@
-# comments
+# this is how you comment
 # README.md
 
 # wildcard
@@ -6,4 +6,8 @@
 
 # eliminating specific file
 this.js
+
+# removing all file from staging area in command line
+git rm --cached -r .
+
 
