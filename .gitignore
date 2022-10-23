@@ -1,4 +1,9 @@
+# comments
+# README.md
+
+# wildcard
+*.docx
+
+# eliminating specific file
 this.js
-*txt
-README.md
 
